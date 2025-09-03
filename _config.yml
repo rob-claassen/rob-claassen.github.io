@@ -23,13 +23,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Rob Claassen"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Columbus, OH"
+  employer         : "Ohio State University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "claassen.10@osu.edu" 
 
   # Academic websites
   academia         : # URL
