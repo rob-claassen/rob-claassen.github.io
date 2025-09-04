@@ -51,9 +51,16 @@ Talks and Posters
   
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+Head Graduate Teaching Assistant 	(Aug. 2021 – May 2022)
+*Algebra Based Physics I*
+* As PHY1200 Head TA, I oversaw communication with and advocated for the twenty TAs working in the course throughout each semester.
+* Organized and executed a two-day orientation for new TAs and set departmental TA policies for the year. These policies ranged from curriculum decisions to managing a return to in-person teaching during COVID.
+
+Graduate Teaching Assistant 	(Aug. 2020 – May 2021)
+*Algebra and Calculus Based Physics I*
+* As a PHY1250 and PHY1200 TA, I taught labs and recitations for two sections of 30 students each semester, graded assignments, guided students through tutorial sessions, held office hours, and proctored exams.
+
+
   
 Service and Leadership
 ======
