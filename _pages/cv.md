@@ -11,35 +11,31 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Physics, Ohio State University, 2026 (expected)
+* M.S. in Physics, Ohio State University, 2022
+* B.S. in Physics, University of Texas at Austin, 2020
+* B.S. in Astronomy, University of Texas at Austin, 2020
 
-Work experience
+Research Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+Graduate Research Assistant, Ohio State University	(Jan. 2021 – Present)
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+*Advisor: Ezekiel Johnston-Halperin*
+  * Specialized in growth and magnetic characterization of novel magnetic material, Vanadium tetracyanoethylene (V[TCNE]x)
+  * Led Ohio State side of multiple inter-institutional collaborations focused on integration of V[TCNE]x into quantum information systems
+  * Work towards characterizing the piezomagnetic properties of V[TCNE]x thin films
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+Undergraduate Research Assistant, University of Texas at Austin	(Aug. 2018 – May 2020)
+
+*Advisor: Xiaoqin (Elaine) Li*
+* Exfoliated and characterized 2D material transition metal dichalcogenides (TMDs) with Raman and photoluminescence spectroscopy
+* Built TMD heterostructures to examine interlayer exciton confinement
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Magnetic Resonance Characterization
+* Python and Origin Data Analysis
+* Metal-Organic Air Free Chemistry
 
 Publications
 ======
@@ -47,7 +43,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Talks and Posters
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
@@ -59,6 +55,22 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Service and Leadership
 ======
-* Currently signed in to 43 different slack teams
+Mentor for First-Year Graduate Students 	(Aug. 2022 – Present)
+* Mentored first year graduate students through their first year in Columbus as they were integrating in the physics department and the OSU community.
+
+Polaris Mentor	(Aug. 2024 – Present)
+* Mentored first year undergraduate students through their first year in OSU Physics.
+* Oversaw a mini research project culminating in a poster session at the end of the semester.
+
+Council of Graduate Students (CGS)	(Aug. 2023 – Aug. 2024)
+* Served in elected position representing physics graduate and advocating for all graduate students in the university. 
+* Sat on the government affairs committee and focused on communicating updates in local, state, and federal government legislation to graduate student body.
+
+Physics Graduate Student Council (PGSC)	(Aug. 2021 – Aug. 2023)
+* Served in elected position in the physics department that advocates for graduate students and provides resources in navigating the university. 
+* Conducted and analyzed an annual, department-wide survey of graduate affairs to create policy initiatives department-wide.
+* Organized community building events like trivia or game nights for graduate students.
+* Facilitated the recruitment and orientation of new graduate students. 
+
